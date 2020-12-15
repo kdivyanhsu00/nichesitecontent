@@ -1,0 +1,39 @@
+.header-sect{
+	border:1px solid #cccbcb
+}
+        .contact-care{
+        	position:relative;
+        }
+        .contact-care-1{
+        	position:relative; 
+        	font-size:18px; 
+        	font-weight:bold; 
+        	color:rgb(113, 19, 19)
+        }
+        .contact-care::after{
+        	position:absolute; 
+        	content:''; 
+        	bottom:-3px; 
+        	left:0px; 
+        	width:70px; 
+        	border:1.5px solid #e94a4a; 
+        	margin:0 auto 
+        }
+        .contact-care-1::after{
+        	position:absolute; 
+        	content:''; 
+        	bottom:-3px; 
+        	left:0px; 
+        	width:70px; 
+        	border:1.5px solid orange; 
+        	margin:0 auto 
+        }
+        .contact-social{
+        	font-size:20px; 
+        	color:#e96d6d
+        }
+        .contact-social-1{
+        	font-size:20px; 
+        	color:grey; 
+        	font-weight:bold;
+        }

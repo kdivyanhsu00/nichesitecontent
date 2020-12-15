@@ -1,0 +1,78 @@
+
+@media (max-width: 1199px) { 
+    .container{max-width: 95%;}
+    }
+@media (max-width: 991px) {  
+
+}
+@media (max-width: 767px) {
+    .slider-content{margin:30px 0px 0 0}
+    .slider-content-2{margin:30px 0px 0 0px}
+    .image-icon img{width:80%;}
+
+ }
+@media (max-width: 575px) {
+    .image-2 img {width: 30px;}
+    .image-2 img {width: 30px;}
+    .image-2 img {width: 30px;}
+
+    .image-2{display:block; }
+    .text-2{display:block; margin: 10px 0 0 0px; }
+
+    .banner-sect-right h2{font-size:17px; }
+    .banner-sect-right h4{font-size:15px;}
+    .banner-sect-right p{font-size:13px;}
+    .banner-sect-right a{font-size:12px; padding:15px 20px; background:#F08000; margin:0 20px 0 20px;}
+
+.sample-item i{transform:rotate(90deg)}
+.blue-strip-pic01{text-align:center; padding:28px 15px; border:1px solid #c1bebe}
+.blue-strip-pic01 h4{font-size:30px; color:#fff; padding:0px 0px 0 0; margin:0px 0 0 0;}
+.blue-strip-pic01 i{font-size:27px; color:#fff; text-align:center;}
+
+.blue-strip-pic02 p{font-size:16px; color:#fff; margin:5px 0 0 0;}
+.blue-strip-pic02{text-align:center; padding:28px 15px; border:1px solid #c1bebe}
+.blue-strip-pic02 i{font-size:32px; color:#fff; text-align:center}
+
+
+.icon-sect h1{font-size:13px; font-weight:600; } 
+.image-icon{width:30% ; margin:0 0 px 0}
+.image-icon img{width:75%;}
+.image-text{width:50%; margin:0px 0px 0 20px}
+
+.image-text h5{font-size:12px;  }
+.image-text p{font-size:10px;}
+
+.pricing-sect h1{font-size:28px;}
+.pricing-sect p{font-size:18px;}
+.pricing-sect-1{margin:0 auto; }
+.pricing-sect-1 ul li{padding:15px 0; border-bottom: 2px solid #d4d2d2;  font-size:12px;  }
+.pricing-sect-1 h2{font-size:17px; padding:10px 0; }
+.pricing-sect-1 ul li a{padding:10px 20px;  font-size:15px; }
+
+
+.pricing-sect-2{margin:0 auto; box-shadow: 15px 0px 9px 8px grey;}
+.pricing-sect-2 h2{font-size:17px; padding:10px 0;}
+.pricing-sect-2 ul li{padding:15px 0; border-bottom: 2px solid #d4d2d2;  font-size:12px; }
+.pricing-sect-2 ul li a{padding:10px 20px;  font-size:15px;}
+
+.slider h1{font-size:25px; color:#666666; font-weight:500}
+.slider-content p{font-size:15px; }
+.slider-content-text p{font-size:15px;}
+.slider-content-image{right:0px; left:0px; margin:auto auto; text-align:center}
+
+.slider-content-2 p{font-size:15px; }
+.slider-content-text-2 p{font-size:15px;}
+
+.frequently-question h1{font-size:20px;}
+.frequently-question-1 h4{font-size:18px; font-weight:500}
+.frequently-question-text p{font-size:10px; }
+.frequently-question-image{width:20%; margin:0 20px 0 0px}
+
+.footer-sect{font-size:13px; padding:10px 0px; text-align:center}
+
+
+
+
+
+ }
+
